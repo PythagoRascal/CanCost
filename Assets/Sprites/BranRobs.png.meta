@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: d4b53403fa81e4941b3d38812abe7e8a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BranRobs
+    21300002: BranRobs_WJ
+    21300004: BranRobs_W2
+    21300006: BranRobs_W1
+    21300008: BranRobs_I
+    21300010: BranRobs_J
+    21300012: BranRobs_R1
+    21300014: BranRobs_R2
+    21300016: BranRobs_RJ
+    21300018: StatusBar_border
+    21300020: StatusBar_playerHealth
+    21300022: StatusBar_enemyHealth
+    21300024: StatusBar_poop
+    21300026: StatusBar_fee
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BranRobs_WJ
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BranRobs_W2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BranRobs_W1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BranRobs_I
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BranRobs_J
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StatusBar_border
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 59
+        width: 42
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StatusBar_playerHealth
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 56
+        width: 40
+        height: 2
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StatusBar_enemyHealth
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 53
+        width: 40
+        height: 2
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StatusBar_poop
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 50
+        width: 40
+        height: 2
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: StatusBar_fee
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 47
+        width: 40
+        height: 2
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
