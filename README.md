@@ -22,3 +22,6 @@ You are Bran Robs, the CEO of CanCost; a nation-wide mega coorporation. Your dai
 - **D:** move right
 - **Spacebar:** dump a turd
 - **Left mouse:** shoot fees
+
+### **Play here:**
+http://pythagorascal.github.io/CanCost/
