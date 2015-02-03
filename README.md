@@ -8,7 +8,7 @@ You are Bran Robs, the CEO of CanCost; a nation-wide mega coorporation. Your dai
 
 *Any similarities with real persons or enterprises are pure coincidence.*
 
-### **Technology used:**
+### **Technologies used:**
 - Unity
 - C#
 - PyxelEdit
